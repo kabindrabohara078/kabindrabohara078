@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-- Learning full-stack development
-- Interested in physics, math, and how systems work
-- Love connecting ideas across coding and science
+Full-stack developer in progress | Interested in systems thinking and how software components interact
+I enjoy connecting concepts from coding, physics and math
 
 ## Tech Stack
 
