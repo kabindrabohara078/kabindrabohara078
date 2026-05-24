@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Full-stack developer in progress | Interested in systems thinking and how software components interact
+Full-stack developer in progress | Interested in systems thinking and how software components interact  
 I enjoy connecting concepts from coding, physics and math
 
 ## Tech Stack
